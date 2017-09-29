@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid = "Futurefusion";
-const char* password = "8796142757";
+const char* ssid = "";
+const char* password = "";
 String dated;
 String tm;
 int flag=0;
